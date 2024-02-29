@@ -1,4 +1,4 @@
-# Logicrom SDK - Hello World
+# Logicrom OpenCPU SDK - Hello World
 
 ## How to build
 
